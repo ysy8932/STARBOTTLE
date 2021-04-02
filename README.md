@@ -16,6 +16,6 @@
 - 마이페이지(회원/관리자)
 - 회원정보 CRUD
 
-[STARBOTTLE portfolio](https://www.notion.so/STARBOTTLE-5beeaaef493042f4b7f0a6122da91f76, "Starbottle")
+[STARBOTTLE portfolio](https://www.notion.so/STARBOTTLE-5beeaaef493042f4b7f0a6122da91f76)
 
 * 이메일링크: <ysy8932@gmail.com>
